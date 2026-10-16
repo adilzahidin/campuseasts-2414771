@@ -10,7 +10,7 @@ Add a new section every week, before you tag. Did not use AI? Write "None" under
 - One thing the AI got wrong and how I fixed it:
 
 ## Week 2
-- Tool(s): None
-- What I asked for:
-- What I kept, changed or rejected, and why:
-- One thing the AI got wrong and how I fixed it:
+- Tool(s): Claude code
+- What I asked for: I asked if I followed the instructions properly.
+- What I kept, changed or rejected, and why: I changed the wrong implementayion of the code on the App.jsx and fixed it.
+- One thing the AI got wrong and how I fixed it: The AI detected that I copy the wrong code on the App.jsx, so I refer to the pdf file and read the text properly, then I put in the right code.
